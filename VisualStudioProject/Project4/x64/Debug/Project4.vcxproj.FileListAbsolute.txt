@@ -1,0 +1,5 @@
+G:\OneDrive\OneDrive - IT software\TaiLieu\2022.1\KT Phan mem\Project\Winform\Project4\Project4\x64\Debug\Project4.vcxproj.AssemblyReference.cache
+G:\OneDrive\OneDrive - IT software\TaiLieu\2022.1\KT Phan mem\Project\Winform\Project4\Project4\x64\Debug\Project4.vcxproj.SuggestedBindingRedirects.cache
+G:\OneDrive\OneDrive - IT software\TaiLieu\2022.1\KT Phan mem\Project\Winform\Project4\Project4\x64\Debug\Project4.MyForm.resources
+G:\OneDrive\OneDrive - IT software\TaiLieu\2022.1\KT Phan mem\Project\Winform\Project4\Project4\x64\Debug\Project4.vcxproj.GenerateResource.cache
+G:\OneDrive\OneDrive - IT software\TaiLieu\2022.1\KT Phan mem\Project\Winform\Project4\Project4\x64\Debug\Project4.PrivacyPolicies.resources

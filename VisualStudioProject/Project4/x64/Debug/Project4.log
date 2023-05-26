@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+G:\OneDrive\OneDrive - IT software\TaiLieu\2022.1\KT Phan mem\Project\Winform\Project4\Project4\MyForm.h(1532,20): warning C4101: 'ex': unreferenced local variable
+G:\OneDrive\OneDrive - IT software\TaiLieu\2022.1\KT Phan mem\Project\Winform\Project4\Project4\MyForm.h(1873,20): warning C4101: 'ex': unreferenced local variable
+G:\OneDrive\OneDrive - IT software\TaiLieu\2022.1\KT Phan mem\Project\Winform\Project4\Project4\MyForm.cpp(8,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project4.vcxproj -> G:\OneDrive\OneDrive - IT software\TaiLieu\2022.1\KT Phan mem\Project\Winform\Project4\x64\Debug\Project4.exe
